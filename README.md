@@ -38,11 +38,11 @@
   
 ### Miraj's Github Stats:
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammiraj&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammiraj&layout=compact&theme=react&hide_border=false&bg_color=0D1117)
   
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=iammiraj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"><img alt="Miraj Ahmed" src="https://github-readme-streak-stats.herokuapp.com/?user=iammiraj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=iammiraj&theme=black-ice&&hide_border=false&stroke=0000&background=060A0CD0"><img alt="Miraj Ahmed" src="https://github-readme-streak-stats.herokuapp.com/?user=iammiraj&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0"/></a>
   
-<a href ="https://github-readme-stats.vercel.app/api?username=iammiraj&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=iammiraj&show_icons=true&theme=radical"></a>
+<a href ="https://github-readme-stats.vercel.app/api?username=iammiraj&show_icons=true&theme=radical&hide_border=false"><img src="https://github-readme-stats.vercel.app/api?username=iammiraj&show_icons=true&theme=radical&hide_border=false"></a>
   
-<a href ="https://activity-graph.herokuapp.com/graph?username=iammiraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Miraj Ahmed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iammiraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+<a href ="https://activity-graph.herokuapp.com/graph?username=iammiraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false"><img alt="Miraj Ahmed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iammiraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false"/></a>
   
