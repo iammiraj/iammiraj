@@ -38,11 +38,11 @@
   
 ### Miraj's Github Stats:
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammiraj&layout=compact&theme=react&hide_border=false&bg_color=0D1117)
+<a href="https://github.com/iammiraj/"><img align="lefy" alt="Sabik Rahat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammiraj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
   
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=iammiraj&theme=black-ice&&hide_border=false&stroke=0000&background=060A0CD0"><img alt="Miraj Ahmed" src="https://github-readme-streak-stats.herokuapp.com/?user=iammiraj&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0"/></a>
   
-<a href ="https://github-readme-stats.vercel.app/api?username=iammiraj&show_icons=true&theme=radical&hide_border=false"><img src="https://github-readme-stats.vercel.app/api?username=iammiraj&show_icons=true&theme=radical&hide_border=false"></a>
+<a align="left" href="https://github.com/sabikrahat/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iammiraj&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=0D1117" /></a> 
   
 <a href ="https://activity-graph.herokuapp.com/graph?username=iammiraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false"><img alt="Miraj Ahmed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iammiraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false"/></a>
   
